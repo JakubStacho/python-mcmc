@@ -1,2 +1,2 @@
-# mcmc-fun
-Practice using Markov Chain Monte Carlo methods in python
+# MCMC Practice in Python
+Just some jupyter notebooks to mess around with implementing mcmc methods in various applications
